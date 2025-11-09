@@ -12,9 +12,9 @@
 ##### `An application that uses datasets and algorithms to map users based on a profile directly to resources and job opportunities that match their interests/demographics.`
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
+![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/Team-132/blob/7dfaab6057e24b870403b6ab6531de2bece9f057/Screenshot%202025-11-08%20at%204.15.43%E2%80%AFPM.png?raw=true "Big Data Hackathon for San Diego 2025")
 
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/Team-132/blob/7dfaab6057e24b870403b6ab6531de2bece9f057/Screenshot%202025-11-08%20at%204.15.43%E2%80%AFPM.png?raw=true"> 
 
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
